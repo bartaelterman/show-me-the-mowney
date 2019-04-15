@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.git
+.idea
+.DS_Store
+__pycache__
+config.yaml
+*.ipynb
+mappings.py
+tags.py
